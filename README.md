@@ -112,7 +112,7 @@ Change the same folder name whatever you want
 ```bash
  csv_file = 'image_details.csv'
 ```
-After making this changes you can run it again
+After making this changes you can run Spider again
 
 
 
