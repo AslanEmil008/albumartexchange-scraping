@@ -1,0 +1,952 @@
+2025-03-17 17:31:55 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:31:55 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:32:05 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:32:05 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:32:09 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:32:09 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:32:26 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:32:26 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:33:08 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:33:08 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:34:13 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:34:13 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:34:20 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:34:20 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:34:59 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:34:59 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:35:57 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:35:57 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:36:47 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:36:47 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:37:27 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:37:27 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:37:46 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:37:46 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:38:01 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:38:01 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:38:07 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:38:07 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:39:07 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:39:07 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:41:44 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:41:44 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:41:44 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-17 17:41:44 [scrapy.extensions.telnet] INFO: Telnet Password: 712e2cacaf1e99a4
+2025-03-17 17:41:44 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-03-17 17:41:44 [scrapy.crawler] INFO: Overridden settings:
+{'DOWNLOAD_DELAY': 1,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['albumartexchange'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+2025-03-17 17:41:44 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-17 17:41:44 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-17 17:41:44 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-17 17:41:44 [scrapy.core.engine] INFO: Spider opened
+2025-03-17 17:41:44 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:41:44 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6025
+2025-03-17 17:42:44 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:43:44 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:44:35 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:44:35 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:44:35 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-17 17:44:35 [scrapy.extensions.telnet] INFO: Telnet Password: 96d84d7143add910
+2025-03-17 17:44:35 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-03-17 17:44:35 [scrapy.crawler] INFO: Overridden settings:
+{'DOWNLOAD_DELAY': 1,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['albumartexchange'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+2025-03-17 17:44:35 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-17 17:44:35 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-17 17:44:35 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-17 17:44:35 [scrapy.core.engine] INFO: Spider opened
+2025-03-17 17:44:35 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:44:35 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6026
+2025-03-17 17:44:46 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:44:46 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:44:50 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:44:50 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:44:50 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-17 17:44:50 [scrapy.extensions.telnet] INFO: Telnet Password: 74b91f1c2857c59c
+2025-03-17 17:44:51 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-03-17 17:44:51 [scrapy.crawler] INFO: Overridden settings:
+{'DOWNLOAD_DELAY': 1,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['albumartexchange'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+2025-03-17 17:44:51 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-17 17:44:51 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-17 17:44:51 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-17 17:44:51 [scrapy.core.engine] INFO: Spider opened
+2025-03-17 17:44:51 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:44:51 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6027
+2025-03-17 17:45:49 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:45:49 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:45:49 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-17 17:45:49 [scrapy.extensions.telnet] INFO: Telnet Password: 902e2fd88914f2a0
+2025-03-17 17:45:49 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-03-17 17:45:49 [scrapy.crawler] INFO: Overridden settings:
+{'DOWNLOAD_DELAY': 1,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['albumartexchange'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+2025-03-17 17:45:49 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-17 17:45:49 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-17 17:45:49 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-17 17:45:49 [scrapy.core.engine] INFO: Spider opened
+2025-03-17 17:45:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:45:49 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6028
+2025-03-17 17:46:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:47:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:48:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:49:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:50:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:51:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:52:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:53:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:54:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:55:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:56:12 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: scrapybot)
+2025-03-17 17:56:12 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-17 17:56:12 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-17 17:56:12 [scrapy.extensions.telnet] INFO: Telnet Password: b8c9aa5416dbe09b
+2025-03-17 17:56:12 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-03-17 17:56:12 [scrapy.crawler] INFO: Overridden settings:
+{'DOWNLOAD_DELAY': 1,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['albumartexchange'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+2025-03-17 17:56:12 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-17 17:56:12 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-17 17:56:12 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-17 17:56:12 [scrapy.core.engine] INFO: Spider opened
+2025-03-17 17:56:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:56:12 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6029
+2025-03-17 17:57:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:58:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 17:59:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 18:00:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-17 18:01:12 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-27 19:49:24 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: albumartexchange)
+2025-03-27 19:49:24 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-27 19:49:24 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-27 19:49:24 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
+2025-03-27 19:49:24 [scrapy.extensions.telnet] INFO: Telnet Password: b5da5c7198d0cecd
+2025-03-27 19:49:24 [py.warnings] WARNING: /home/emil/venv/lib/python3.12/site-packages/scrapy/extensions/feedexport.py:432: ScrapyDeprecationWarning: The `FEED_URI` and `FEED_FORMAT` settings have been deprecated in favor of the `FEEDS` setting. Please see the `FEEDS` setting docs for more details
+  exporter = cls(crawler)
+
+2025-03-27 19:49:24 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-03-27 19:49:24 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'albumartexchange',
+ 'CONCURRENT_REQUESTS': 128,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'NEWSPIDER_MODULE': 'albumartexchange.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408, 403],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['albumartexchange.spiders']}
+2025-03-27 19:49:24 [twisted] CRITICAL: Unhandled error in Deferred:
+2025-03-27 19:49:24 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/home/emil/venv/lib/python3.12/site-packages/twisted/internet/defer.py", line 2017, in _inlineCallbacks
+    result = context.run(gen.send, result)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 152, in crawl
+    self.engine = self._create_engine()
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 166, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/engine.py", line 101, in __init__
+    self.downloader: Downloader = downloader_cls(crawler)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/downloader/__init__.py", line 109, in __init__
+    DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 77, in from_crawler
+    return cls._from_settings(crawler.settings, crawler)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 86, in _from_settings
+    mwcls = load_object(clspath)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/utils/misc.py", line 71, in load_object
+    mod = import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'myproject'
+2025-03-27 19:49:41 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: albumartexchange)
+2025-03-27 19:49:41 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-27 19:49:41 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-27 19:49:41 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
+2025-03-27 19:49:41 [scrapy.extensions.telnet] INFO: Telnet Password: 10338d56a43627f8
+2025-03-27 19:49:41 [py.warnings] WARNING: /home/emil/venv/lib/python3.12/site-packages/scrapy/extensions/feedexport.py:432: ScrapyDeprecationWarning: The `FEED_URI` and `FEED_FORMAT` settings have been deprecated in favor of the `FEEDS` setting. Please see the `FEEDS` setting docs for more details
+  exporter = cls(crawler)
+
+2025-03-27 19:49:41 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-03-27 19:49:41 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'albumartexchange',
+ 'CONCURRENT_REQUESTS': 128,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'NEWSPIDER_MODULE': 'albumartexchange.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408, 403],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['albumartexchange.spiders']}
+2025-03-27 19:49:41 [twisted] CRITICAL: Unhandled error in Deferred:
+2025-03-27 19:49:41 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/home/emil/venv/lib/python3.12/site-packages/twisted/internet/defer.py", line 2017, in _inlineCallbacks
+    result = context.run(gen.send, result)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 152, in crawl
+    self.engine = self._create_engine()
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 166, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/engine.py", line 101, in __init__
+    self.downloader: Downloader = downloader_cls(crawler)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/downloader/__init__.py", line 109, in __init__
+    DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 77, in from_crawler
+    return cls._from_settings(crawler.settings, crawler)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 86, in _from_settings
+    mwcls = load_object(clspath)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/utils/misc.py", line 71, in load_object
+    mod = import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'albumartexchnage'
+2025-03-27 19:50:40 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: albumartexchange)
+2025-03-27 19:50:40 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-27 19:50:40 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-27 19:50:40 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
+2025-03-27 19:50:40 [scrapy.extensions.telnet] INFO: Telnet Password: 0952524a1de6c957
+2025-03-27 19:50:40 [py.warnings] WARNING: /home/emil/venv/lib/python3.12/site-packages/scrapy/extensions/feedexport.py:432: ScrapyDeprecationWarning: The `FEED_URI` and `FEED_FORMAT` settings have been deprecated in favor of the `FEEDS` setting. Please see the `FEEDS` setting docs for more details
+  exporter = cls(crawler)
+
+2025-03-27 19:50:40 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-03-27 19:50:40 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'albumartexchange',
+ 'CONCURRENT_REQUESTS': 128,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'NEWSPIDER_MODULE': 'albumartexchange.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408, 403],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['albumartexchange.spiders']}
+2025-03-27 19:50:40 [twisted] CRITICAL: Unhandled error in Deferred:
+2025-03-27 19:50:40 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/utils/misc.py", line 74, in load_object
+    obj = getattr(mod, name)
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'albumartexchange.middlewares' has no attribute 'RandomUserAgentMiddleware'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/emil/venv/lib/python3.12/site-packages/twisted/internet/defer.py", line 2017, in _inlineCallbacks
+    result = context.run(gen.send, result)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 152, in crawl
+    self.engine = self._create_engine()
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/crawler.py", line 166, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/engine.py", line 101, in __init__
+    self.downloader: Downloader = downloader_cls(crawler)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/core/downloader/__init__.py", line 109, in __init__
+    DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 77, in from_crawler
+    return cls._from_settings(crawler.settings, crawler)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/middleware.py", line 86, in _from_settings
+    mwcls = load_object(clspath)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/emil/venv/lib/python3.12/site-packages/scrapy/utils/misc.py", line 76, in load_object
+    raise NameError(f"Module '{module}' doesn't define any object named '{name}'")
+NameError: Module 'albumartexchange.middlewares' doesn't define any object named 'RandomUserAgentMiddleware'
+2025-03-27 19:51:44 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: albumartexchange)
+2025-03-27 19:51:44 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.11.0, Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0], pyOpenSSL 24.3.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-6.11.0-19-generic-x86_64-with-glibc2.39
+2025-03-27 19:51:44 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-03-27 19:51:44 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
+2025-03-27 19:51:44 [scrapy.extensions.telnet] INFO: Telnet Password: e8cdc4cbbb7f30cd
+2025-03-27 19:51:44 [py.warnings] WARNING: /home/emil/venv/lib/python3.12/site-packages/scrapy/extensions/feedexport.py:432: ScrapyDeprecationWarning: The `FEED_URI` and `FEED_FORMAT` settings have been deprecated in favor of the `FEEDS` setting. Please see the `FEEDS` setting docs for more details
+  exporter = cls(crawler)
+
+2025-03-27 19:51:44 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-03-27 19:51:44 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'albumartexchange',
+ 'CONCURRENT_REQUESTS': 128,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'scrapy_log.txt',
+ 'NEWSPIDER_MODULE': 'albumartexchange.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 408, 403],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['albumartexchange.spiders']}
+2025-03-27 19:51:44 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'albumartexchange.middlewares.ProxyMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-03-27 19:51:44 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-03-27 19:51:44 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-03-27 19:51:44 [scrapy.core.engine] INFO: Spider opened
+2025-03-27 19:51:44 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-03-27 19:51:44 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6052
+2025-03-27 19:51:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31288> (referer: None)
+2025-03-27 19:51:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31293> (referer: None)
+2025-03-27 19:51:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31290> (referer: None)
+2025-03-27 19:51:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31292> (referer: None)
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.25389778767595805
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:51:56 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:51:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31294> (referer: None)
+2025-03-27 19:51:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31289> (referer: None)
+2025-03-27 19:51:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31291> (referer: None)
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 65023
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 65028
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 65023
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 65023
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 65024
+2025-03-27 19:51:57 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 65023
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.938125
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-JP not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: GB2312 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-KR not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: CP949 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: Big5 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-TW not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.26258147979575847
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.938125
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-JP not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: GB2312 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-KR not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: CP949 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: Big5 not active
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-TW not active
+2025-03-27 19:51:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31287> (referer: None)
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.2550111308230097
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:51:58 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:51:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/br/bryanadams_barebones_cgoj.jpg> (referer: https://albumartexchange.com/covers?page=31288)
+2025-03-27 19:52:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ni/nightcrawlers_pushthefeelingonmkmi_b96l.jpg> (referer: https://albumartexchange.com/covers?page=31292)
+2025-03-27 19:52:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alisonlimerick_wherelovelives_a7rc.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalontrayback_cgny.jpg> (referer: https://albumartexchange.com/covers?page=31290)
+2025-03-27 19:52:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_tildeathdousunite_cgol.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_sodom_cgok.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_betteroffdead_cgon.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_tappingthevein_cgom.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/we/westsideconnection_bowdown_cgoo.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_aberbittemitsahnesin_cgoq.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_ausgebombtsingle_cgop.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/st/stevehill_devilatmyheels_cgor.jpg> (referer: https://albumartexchange.com/covers?page=31287)
+2025-03-27 19:52:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/st/stevesilkhurleythevo_thewordislove_a9pt.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/st/stevesilkhurleythevo_thewordislove_b976.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/st/stevesilkhurleythevo_thewordislove_b975.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alisonlimerick_wherelovelives_b97f.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/st/stevesilkhurleythevo_thewordislove_b977.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alisonlimerick_wherelovelives_b97g.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alisonlimerick_wherelovelives_b97e.jpg> (referer: https://albumartexchange.com/covers?page=31291)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalontrayback_cgo1.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalontrayback_cgo0.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalontrayback_cgnz.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalontrayback_cgo2.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalonback_cgo4.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalonback_cgo3.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalonback_cgo7.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31295> (referer: None)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clubland_holdontightertolove_cgn3.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clublandzemyahamilto_holdontightertolovet_cgn8.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clubland_holdontightertolove_cgn2.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clublandzemyahamilto_holdontightertolovet_cgn7.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clublandzemyahamilto_holdontightertolovet_cgna.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clublandzemyahamilto_holdontightertolovet_cgn9.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clubland_holdontightertolove_cgn4.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clublandzemyahamilto_holdontightertolovet_cgnb.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/dj/djtonka_securitythenight_cgmz.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/dj/djtonka_securitythenight_cgmy.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/dj/djtonka_securitythenight_cgmx.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/dj/djtonka_securitythenight_cgn1.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31296> (referer: None)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/dj/djtonka_securitythenight_cgn0.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clubland_holdontightertolove_cgn6.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31297> (referer: None)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ro/roxymusic_avalonback_cgo6.jpg> (referer: https://albumartexchange.com/covers?page=31289)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/cl/clubland_holdontightertolove_cgn5.jpg> (referer: https://albumartexchange.com/covers?page=31295)
+2025-03-27 19:52:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/op/opusiii_itsafineday7tracks_cgnc.jpg> (referer: https://albumartexchange.com/covers?page=31294)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ni/nightcrawlers_pushthefeelingon_a2pl.jpg> (referer: https://albumartexchange.com/covers?page=31292)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ni/nightcrawlers_pushthefeelingon_b96g.jpg> (referer: https://albumartexchange.com/covers?page=31292)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ni/nightcrawlers_pushthefeelingon_b96f.jpg> (referer: https://albumartexchange.com/covers?page=31292)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31298> (referer: None)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/co/cosmos_takemewithyou_cgmv.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ni/nightcrawlers_pushthefeelingon_b96e.jpg> (referer: https://albumartexchange.com/covers?page=31292)
+2025-03-27 19:52:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ba/barbaratucker_beautifulpeople_cgmq.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alcatrazz_disturbingthepeace_cgmh.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thebrooklynbridge_thesecondbrooklynbri_cgmf.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alcatrazz_disturbingthepeace_cgmi.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thebrooklynbridge_thesecondbrooklynbri_cgmg.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alcatraz_dangerousgames_cgmm.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alcatrazz_dangerousgames_cgml.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_lifeofbrianoriginals_cgm8.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_anothermontypythoncd_cgm7.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31299> (referer: None)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_liveatcitycenterapri_cgm9.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_liveatdrurylane_cgmb.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_montypythonscontract_cgma.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_thealbumofthesoundtr_cgmd.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31300> (referer: None)
+2025-03-27 19:52:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_themontypythonmatchi_cgmc.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ba/barbaratucker_beautifulpeople_cgmn.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/mo/montypython_themeaningoflifeorig_cgme.jpg> (referer: https://albumartexchange.com/covers?page=31298)
+2025-03-27 19:52:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ba/barbaratucker_beautifulpeople_cgmr.jpg> (referer: https://albumartexchange.com/covers?page=31297)
+2025-03-27 19:52:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ba/barbaratucker_beautifulpeople_cgmp.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/ba/barbaratucker_beautifulpeople_cgmo.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/gr/gratefuldead_readyornot_cgm6.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_disappoint_cgm1.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_disappoint_cgm0.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_disappoint_cglz.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_disappoint_cgly.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31301> (referer: None)
+2025-03-27 19:52:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31302> (referer: None)
+2025-03-27 19:52:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_disappoint_cgm2.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepearlfishers_openupyourcolouringb_cgm3.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31303> (referer: None)
+2025-03-27 19:52:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_document_cglp.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.06058932730269179
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.06103990710995767
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.16118687778995558
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.2544617266335245
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:17 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_document_cglo.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_failure_cglu.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_failure_cglt.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_failure_cglx.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_failure_cglw.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/as/assemblage23_failure_cglv.jpg> (referer: https://albumartexchange.com/covers?page=31300)
+2025-03-27 19:52:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/an/antoinediligentantho_nobodylovesuwyl_cgm4.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/co/cosmos_takemewithyou_cgmu.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thecreatures_abestiaryof_cgm5.jpg> (referer: https://albumartexchange.com/covers?page=31299)
+2025-03-27 19:52:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31304> (referer: None)
+2025-03-27 19:52:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/co/cosmos_takemewithyou_cgmt.jpg> (referer: https://albumartexchange.com/covers?page=31296)
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.06058932730269179
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.06103990710995767
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.16118687778995558
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.25866495272710943
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:19 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepersuader_stockholm_9if5.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepersuader_stockholm_9if7.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepersuader_stockholm_9if6.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31305> (referer: None)
+2025-03-27 19:52:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepersuader_stockholm_b8c9.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/th/thepersuader_stockholm_cgle.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alicedeejay_betteroffalone_cgli.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjao.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31306> (referer: None)
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 76164
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.505
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-TW not active
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.7196424240723269
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.25585427254579185
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjan.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjam.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31307> (referer: None)
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.2573389442658662
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:23 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjal.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjak.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:25 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjaj.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:25 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31308> (referer: None)
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.2601469573739064
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:26 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjai.jpg> (referer: https://albumartexchange.com/covers?page=31303)
+2025-03-27 19:52:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/al/alicedeejay_betteroffalone_b95i.jpg> (referer: https://albumartexchange.com/covers?page=31302)
+2025-03-27 19:52:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31309> (referer: None)
+2025-03-27 19:52:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/vi/vitas_limitededition_bjap.jpg> (referer: https://albumartexchange.com/covers?page=31304)
+2025-03-27 19:52:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/so/sodom_insidemycrosshairswa_cgl2.jpg> (referer: https://albumartexchange.com/covers?page=31304)
+2025-03-27 19:52:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/va/variousartists_bodytalkforeveryours_cgl3.jpg> (referer: https://albumartexchange.com/covers?page=31304)
+2025-03-27 19:52:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/xx/xxxtentacion_badvibesforever_cgl4.jpg> (referer: https://albumartexchange.com/covers?page=31304)
+2025-03-27 19:52:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/sl/slipknot_5thegraychapteralter_cgl1.jpg> (referer: https://albumartexchange.com/covers?page=31305)
+2025-03-27 19:52:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31310> (referer: None)
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.25980633349477755
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:28 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/sl/slayer_divineintervention_cgkw.jpg> (referer: https://albumartexchange.com/covers?page=31305)
+2025-03-27 19:52:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/fa/facesthesmallfaces_thebbcsessions_cg1k.jpg> (referer: https://albumartexchange.com/covers?page=31305)
+2025-03-27 19:52:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/sl/slayer_decadeofaggressionli_cgkv.jpg> (referer: https://albumartexchange.com/covers?page=31305)
+2025-03-27 19:52:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/sl/slayer_cultsinglevinyl_cgku.jpg> (referer: https://albumartexchange.com/covers?page=31305)
+2025-03-27 19:52:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://albumartexchange.com/covers?page=31311> (referer: None)
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.26337743735945063
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.99
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-JP Japanese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: GB2312 Chinese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-KR Korean confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: CP949 Korean confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: Big5 Chinese confidence = 0.01
+2025-03-27 19:52:29 [chardet.charsetprober] DEBUG: EUC-TW Taiwan confidence = 0.01
+2025-03-27 19:52:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/fa/facesthesmallfaces_thebbcsessions_cg1j.jpg> (referer: https://albumartexchange.com/covers?page=31306)
+2025-03-27 19:52:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.albumartexchange.com/coverart/_tn/sl/slayer_southofheaven_cgky.jpg> (referer: https://albumartexchange.com/covers?page=31305)
