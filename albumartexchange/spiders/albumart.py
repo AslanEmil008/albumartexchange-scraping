@@ -26,7 +26,7 @@ class AlbumSpider(scrapy.Spider):
     
     def start_requests(self):
         for url in self.start_urls:
-            yield scrapy.Request(url, callback=self.parse, meta={'proxy': 'http://ZhW8jx:fos5p3@177.234.140.25:8000'})
+            yield scrapy.Request(url, callback=self.parse, meta={'proxy': 'http://username:password@your_proxy_address:proxy_port'})
     
     def parse(self, response):
         page_number = int(response.url.split('=')[-1])  # Extract the page number from URL
