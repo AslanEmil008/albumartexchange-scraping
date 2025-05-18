@@ -52,7 +52,7 @@ PROXY_USER_PASS = 'username:password'    # Replace with your actual proxy userna
 Replace with your actual proxy URL <br>
 Replace with your actual proxy username and password <br>
 
-**4** You can change the page range to specify which pages you want to scrape <br>
+**4.** You can change the page range to specify which pages you want to scrape <br>
 In `albumart.py` find this line:
 ```bash
  start_urls = [f'https://albumartexchange.com/covers?page={i}' for i in range(1, 101)]
