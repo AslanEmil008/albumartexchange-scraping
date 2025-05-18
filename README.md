@@ -12,11 +12,30 @@ The images are downloaded into a folder, and the data about each image is saved 
 
 # Getting started
 ## Usage
+
 **1.** Clone the Repository
 ```bash
 git clone https://github.com/AslanEmil008/albumartexchange-scraping.git
 cd albumartexchange-scraping
 ```
-2. Then install requirments.txt
-
+**2.** Then install requirments.txt
+```bash
 pip install -r requirements.txt
+```
+
+## How to run
+**1.** For runnign this code you need in albumart.py find the part of proxy
+```bash
+def start_requests(self):
+        for url in self.start_urls:
+            yield scrapy.Request(url, callback=self.parse, meta={'proxy':''http://username:password@your_proxy_address:proxy_port'})
+```
+
+
+
+
+
+
+
+
+
