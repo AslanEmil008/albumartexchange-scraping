@@ -7,13 +7,12 @@ import aiofiles
 class AlbumSpider(scrapy.Spider):
     name = "albumartexchange"
     
-    # Start URL for scraping specific pages (1250 to 1260)
     start_urls = [f'https://albumartexchange.com/covers?page={i}' for i in range(1, 101)] 
     
-    if not os.path.exists('downloaded_images14'): 
-        os.makedirs('downloaded_images14')
+    if not os.path.exists('downloaded_images'): 
+        os.makedirs('downloaded_images')
     
-    csv_file = 'image_details14.csv' #8
+    csv_file = 'image_details.csv' 
     csv_headers = ['Image URL', 'Resolution', 'File Size', 'Cover URL', 'Image Name']
 
     def write_csv(self, headers):
@@ -75,7 +74,7 @@ class AlbumSpider(scrapy.Spider):
     def download_image(self, response):
         img_counter = response.meta['img_counter']
         img_name = f"{img_counter:08d}.png"
-        img_path = os.path.join('downloaded_images14', img_name) #8
+        img_path = os.path.join('downloaded_images', img_name) 
         
         with open(img_path, 'wb') as img_file:
             img_file.write(response.body)
