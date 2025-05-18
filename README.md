@@ -61,7 +61,7 @@ And change the range(1, 101) to the range you need, for example range(100, 200).
 
 After making this chnages run the spider
 
-**5**Run spider
+**5.** Run spider
 ```bash
 scrapy crawl albumartexchange
 ```
@@ -93,25 +93,24 @@ Folder name: downloaded_images
 
 
 > [!NOTE]
-> If you want to change the folder where images is downloading or you want to run code twice for different pages and sav images in different folders you can must:
-Find this lines in code `albumart.py`
-1.
-```bash
+>If you want to change the folder where images are downloaded, or if you want to run the code twice for different pages and save images in different folders, you must find these lines in `albumart.py`:
+<b>1.</b> ```bash
 if not os.path.exists('downloaded_images'): 
         os.makedirs('downloaded_images')
 ```
-Change the folder name to whatever you want
-2. Then find this lin in same `albumart.py` file:
+Change the folder name to whatever you want <br>
+<b>2.</b> Then find this lin in same `albumart.py` file:
 ```bash
  img_path = os.path.join('downloaded_images', img_name) 
 ```
 Change the same folder name whatever you want 
 
 > [!NOTE]
-> If you want change csv name find this part of code in `albumart.py`
+> If you want change csv name find this part of code in `albumart.py` and change whatever you want
 ```bash
- csv_file = 'image_details14.csv'
+ csv_file = 'image_details.csv'
 ```
+After making this changes you can run it again
 
 
 
