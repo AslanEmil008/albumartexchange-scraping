@@ -1,0 +1,3 @@
+﻿scrapy
+beautifulsoup4
+aiofiles
