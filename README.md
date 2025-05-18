@@ -74,7 +74,7 @@ Folder name: downloaded_images
   if not os.path.exists('downloaded_images'): 
         os.makedirs('downloaded_images')
   ```
-  Csv name: image_details.csv
+Csv name: image_details.csv
 - A CSV file containing image data, as defined in this part of the code:
   
   ```bash
