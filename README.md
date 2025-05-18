@@ -94,12 +94,14 @@ Csv name: image_details.csv
 
 > [!NOTE]
 >If you want to change the folder where images are downloaded, or if you want to run the code twice for different pages and save images in different folders, you must find these lines in `albumart.py`:
-<b>1.</b> ```bash
+1. Find this line
+```bash
 if not os.path.exists('downloaded_images'): 
         os.makedirs('downloaded_images')
 ```
 Change the folder name to whatever you want <br>
-<b>2.</b> Then find this lin in same `albumart.py` file:
+
+2. Then find this lin in same `albumart.py` file:
 ```bash
  img_path = os.path.join('downloaded_images', img_name) 
 ```
